@@ -196,7 +196,7 @@ print(f"Общее состояние: {results['overall_condition']}")
 - [Car Scratch Detection](https://universe.roboflow.com/project-kmnth/car-scratch-xgxzs)
 - Мой личный датасет (реальные фото для обучения модели, поврежденное авто, грязное, очень чистое, покрытое льдом, с слоем пыли)
 
-## Авторы
+## Автор
 
 Ан Артур - m0ln1z  
 Создано для технического задания inDrive (Кейс 1)
