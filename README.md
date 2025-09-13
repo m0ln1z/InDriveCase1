@@ -22,17 +22,7 @@ Case1_InDrive/
 │   └── texture_aware_model.py              # 🧠 TextureAware ML модель
 ├── models/
 │   └── improved_texture_best_model.pth     # 💾 Обученная модель (94.4% точности)
-├── user_data/                              # 📸 Тестовые изображения
-│   ├── clean_intact/                       # Чистые целые авто
-│   ├── clean_damaged/                      # Чистые поврежденные авто
-│   ├── dirty_intact/                       # Грязные целые авто
-│   └── dirty_damaged/                      # Грязные поврежденные авто
-├── venv/                                   # 🐍 Виртуальное окружение
 ├── requirements.txt                        # 📋 Зависимости Python
-├── README_PRODUCTION.md                    # 📖 Production инструкции
-├── FINAL_PRESENTATION.md                   # 📊 Презентация для бизнеса
-├── EXECUTIVE_SUMMARY.md                    # 💼 Executive summary
-├── TECHNICAL_SPEC.md                       # 🛠️ Техническая спецификация
 └── README.md                              # 📄 Данный файл
 ```
 
