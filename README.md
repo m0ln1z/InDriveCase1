@@ -194,7 +194,7 @@ print(f"Общее состояние: {results['overall_condition']}")
 - [Roboflow Car Scratch Dataset](https://universe.roboflow.com/seva-at1qy/rust-and-scrach)
 - [Car Scratch and Dent Dataset](https://universe.roboflow.com/carpro/car-scratch-and-dent)  
 - [Car Scratch Detection](https://universe.roboflow.com/project-kmnth/car-scratch-xgxzs)
-- Мой личный датасет(реальные фото для обучения модели, поврежденное авто, грязное, очень чистое, покрытое льдом, с слоем пыли)
+- Мой личный датасет (реальные фото для обучения модели, поврежденное авто, грязное, очень чистое, покрытое льдом, с слоем пыли)
 
 ## Авторы
 
