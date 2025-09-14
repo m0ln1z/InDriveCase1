@@ -35,6 +35,7 @@ git clone <repository-url>
 cd Case1_InDrive
 git lfs pull
 ```
+**Если не получилось спуллить lfs file , то скачать improved_texture_best_model.pth с Google диск и поместить в папку --> /models**
 
 2. Создайте виртуальное окружение:
 ```bash
